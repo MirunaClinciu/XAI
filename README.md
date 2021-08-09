@@ -1,5 +1,5 @@
-# XAI
-XAI - conferences, workshops, tutorials and other events
+# Explainable AI (XAI)
+Conferences, Workshops, Tutorials and other events
 
 # Conferences
 ## 2021
