@@ -1,22 +1,22 @@
 # XAI
 XAI - conferences, workshops, tutorials and other events
 
-#Conferences
+# Conferences
 ## 2021
 ## 2020
 ## 2019
 
-#Workshops
+# Workshops
 ## 2021
 ## 2020
 ## 2019
 
-#Tutorials
+# Tutorials
 ## 2021
 ## 2020
 ## 2019
 
-#Other Events
+# Other Events
 ## 2021
 ## 2020
 ## 2019
